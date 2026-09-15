@@ -21,8 +21,6 @@
   <a href="https://protfolio-ivory-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT_SITE-6C3483?style=for-the-badge&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sirisahithi" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1B2631?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sirisahithi" target="_blank"><img src="https://img.shields.io/badge/CONNECT-2874A6?style=for-the-badge&logoColor=white" /></a>
-</p>
-<p>
   <a href="mailto:sirisahithi00@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-1B2631?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:sirisahithi00@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-B03A2E?style=for-the-badge&logoColor=white" /></a>
   <a href="https://x.com/SiriSahith" target="_blank"><img src="https://img.shields.io/badge/X_(TWITTER)-1B2631?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -58,6 +56,8 @@ I'm a B.Tech CSE student at Amrita Sai Institute of Science and Technology, pass
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
 **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -91,6 +91,8 @@ I'm a B.Tech CSE student at Amrita Sai Institute of Science and Technology, pass
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+
+</div>
 
 <br>
 
