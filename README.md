@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Gradient Wave Banner (renders live via capsule-render.vercel.app) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:6C3483&height=190&section=header&text=Satyala%20Siri%20Sahithi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20in%20the%20Making&descSize=16&descAlignY=58" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:6C3483&height=190&section=header&text=Satyala%20Siri%20Sahithi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20ML%20Enthusiast%20%7C%20Python%20Developer&descSize=16&descAlignY=58" alt="header banner" />
 
 <br>
 
@@ -191,16 +191,7 @@ PCMR Hackathon
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siri-sahithi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C3483&icon_color=5DADE2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siri-sahithi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C3483" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siri-sahithi&theme=dark&hide_border=true&background=0D1117&stroke=6C3483&ring=6C3483&fire=5DADE2&currStreakLabel=5DADE2" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siri-sahithi&theme=github-compact&bg_color=0D1117&color=5DADE2&line=6C3483&point=ffffff&hide_border=true" width="90%" />
 </div>
 
 <br>
