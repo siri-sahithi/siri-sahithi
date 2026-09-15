@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Gradient Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:6C3483&height=200&section=header&text=Hema%20Siri%20Sahithi&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20%26%20Statistics&descSize=18&descAlignY=55&animation=fadeIn" />
+<!-- Gradient Wave Banner (renders live from capsule-render.vercel.app — needs internet access to load, e.g. on GitHub.com) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:6C3483&height=200&section=header&text=Satyala%20Siri%20Sahithi&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20%26%20Statistics&descSize=16&descAlignY=55" alt="header banner" />
 
 <br>
 
