@@ -1,4 +1,4 @@
-<!-- ✨ GitHub Profile README — Satyala Siri Sahithi ✨ -->
+<!-- ✨ GitHub Profile README — Siri Sahithi Satyala ✨ -->
 <!-- Dark theme | Sectioned layout | Edit any part below to keep this updated -->
 
 <div align="center">
