@@ -15,7 +15,7 @@
 
 <br><br>
 
-<!-- Button-style Navigator -->
+<!--- Button-style Navigator --->
 <p>
   <a href="https://protfolio-ivory-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-2C3E50?style=for-the-badge&logoColor=white" /></a>
   <a href="https://protfolio-ivory-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT_SITE-6C3483?style=for-the-badge&logoColor=white" /></a>
