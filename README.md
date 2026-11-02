@@ -9,9 +9,7 @@
 <br>
 
 <!-- Typing Text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=5DADE2&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Aspiring+ML+Engineer;AI+%2B+Python+%2B+Statistics" alt="Typing SVG" />
-</a>
+
 
 <br><br>
 
