@@ -11,7 +11,6 @@
 <!-- Typing Text -->
 
 
-<br><br>
 
 <!-- Button-style Navigator -->
 <p>
